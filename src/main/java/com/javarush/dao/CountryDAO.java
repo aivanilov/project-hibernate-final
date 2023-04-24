@@ -2,7 +2,6 @@ package com.javarush.dao;
 
 import com.javarush.domain.Country;
 import org.hibernate.SessionFactory;
-import org.hibernate.query.Query;
 
 import java.util.List;
 
